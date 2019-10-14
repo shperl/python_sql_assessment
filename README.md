@@ -1,6 +1,6 @@
-# Sysco Labs Technical Assessment
+# Technical Assessment
 
-This code repository contains the answers to the technical assessment for the Data Platform Engineer role at Sysco Labs.
+This code repository contains the answers to the technical assessment for the Data Platform Engineer role.
 
 ## SQL Assessment
 
